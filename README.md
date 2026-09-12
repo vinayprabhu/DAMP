@@ -1,4 +1,4 @@
-# Project DAMP: <img src="data/logo.jpeg" height="100">
+# Project DAMP: <img src="data/damp_logo.jpeg" height="100">
 
 DAMP : Disagreements amongst AMP Model Predictions
 
