@@ -1,0 +1,7 @@
+model_used	paper_title	source	year	n_proteins_raw	n_pre_apex	n_post_apex	n_synth	n_amp_wetlab	constraint	doi_paper
+apex_1.0	Deep-learning-enabled antibiotic discovery through molecular de-extinction	Extinctomics	2024	12,860	10,311,899	37,176	69	41	MIC ≤ 80 μmol l−1	10.1038/s41551-024-01201-x
+apex_1.0	Computational exploration of global venoms for antimicrobial discovery with Venomics artificial intelligence	Venomics	2025	16,123	40,626,260	7,379	55	53	MIC ≤32 µmol L−1	10.1038/s41467-025-60051-6
+apex_1.1	Deep learning reveals antibiotics in the archaeal proteome	Archaeomics	2025	18,677	193,331,608	12623	80	74	MIC ≤100 μmol l−1	10.1038/s41564-025-02061-0
+apex_1.1	Generative latent diffusion language modeling yields anti-infective synthetic peptides - AMPDIFF	DRAMP_APD_DBAASP,AMPDIFF_synth50k	2025	50,000		19,670	46	35	MIC ≤ 64 μmol L−1	10.1016/j.celbio.2025.100183
+Antimicrobial potency score by Pane et al	Mining for encrypted peptide antibiotics in the human proteome	Human_Proteomics	2022	42,361		43000				10.1038/s41551-021-00801-1
+Unclear	AMP Challenge: A Benchmark for Generative AI in Antimicrobial Peptide Design	NEURIPS_AMP_CHALLENGE	2026	39,448	39,448	39,448				https://github.com/szczurek-lab/amp-challenge-2027/blob/main/AMPChallenge_NeurIPSCompetition.pdf
